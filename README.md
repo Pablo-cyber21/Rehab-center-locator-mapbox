@@ -1,5 +1,5 @@
 # Rehab-center-locator-mapbox
--- A repository for the building of the maps and navigation feature of  Health hub innovation
+- A repository for the building of the maps and navigation feature of  Health hub innovation
 
 ## Main aims/ Functionalities.
 - Ability of the user to search for area and  get the locations of our registered centers
